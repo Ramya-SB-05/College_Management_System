@@ -6,12 +6,12 @@ A web-based College Management System built with Django. It allows administrator
 
 ## 🚀 Features
 
-- 🧑‍🏫 **Admin Panel**: Manage users, courses, subjects, and student records.
-- 🎓 **Student Panel**: View attendance, results, and announcements.
-- 🏫 **Staff Panel**: Take attendance, upload results, and interact with students.
-- 📢 **Notifications**: Admin and staff can send important alerts.
-- 🔐 **Authentication**: Secure login system for students, staff, and admin.
-- 📊 **Dashboard**: Visual overview of system stats and performance.
+- **Admin Panel**: Manage users, courses, subjects, and student records.
+- **Student Panel**: View attendance, results, and announcements.
+- **Staff Panel**: Take attendance, upload results, and interact with students.
+- **Notifications**: Admin and staff can send important alerts.
+- **Authentication**: Secure login system for students, staff, and admin.
+- **Dashboard**: Visual overview of system stats and performance.
 
 ---
 
@@ -24,4 +24,3 @@ A web-based College Management System built with Django. It allows administrator
 | Database     | SQLite                 |
 | Auth System  | Django's built-in auth |
 
----
